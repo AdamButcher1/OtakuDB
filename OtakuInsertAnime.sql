@@ -1,0 +1,10 @@
+INSERT INTO ANIME(AnimeName,Director,Studio,Writer,StartDate,EndDate,Episodes,RelatedManga) VALUES('Angel Beats!','Seiji Kishi','P.A. Works','Jun Maeda','2010-04-03','2010-06-26',13,'Angel Beats!!: Heaven''s Door');
+INSERT INTO ANIME(AnimeName,Director,Studio,Writer,StartDate,EndDate,Episodes,RelatedManga) VALUES('Code Geass: Lelouch of the Rebellion','Goro Taniguchi','Sunrise','Ichiro Okouchi','2006-10-05','2007-07-28',25,'Code Geass: Lelouch of the Rebellion');
+INSERT INTO ANIME(AnimeName,Director,Studio,Writer,StartDate,EndDate,Episodes,RelatedManga) VALUES('Attack on Titan','Tetsuro Araki','Wit Studio','Yasuko Kobayashi','2013-04-07','2013-09-29',25,'Shingeki no Kyojin');
+INSERT INTO ANIME(AnimeName,Director,Studio,Writer,StartDate,EndDate,Episodes,RelatedManga) VALUES('Death Note','Tetsuro Araki','Madhouse','Toshiki Inoue','2006-10-03','2007-06-26',37,'Death Note');
+INSERT INTO ANIME(AnimeName,Director,Studio,Writer,StartDate,EndDate,Episodes,RelatedManga) VALUES('Kabaneri of the Iron Fortress','Tetsuro Araki','Wit Studio','Ichiro Okuchi','2016-04-08','2016-07-01',12,'Koutetsujou no Kabaneri');
+INSERT INTO ANIME(AnimeName,Director,Studio,Writer,StartDate,EndDate,Episodes,RelatedManga) VALUES('Soul Eater','Takuya Igarashi','Bones','Akatsuki Yamatoya','2008-04-07','2009-03-30',51,'Soul Eater');
+INSERT INTO ANIME(AnimeName,Director,Studio,Writer,StartDate,EndDate,Episodes,RelatedManga) VALUES('Cowboy Bebop','Shinichiro Watanabe','Sunrise','Keiko Nobumoto','1998-04-03','1999-04-24',26,'Cowboy Bebop');
+INSERT INTO ANIME(AnimeName,Director,Studio,Writer,StartDate,EndDate,Episodes,RelatedManga) VALUES('No Game No Life', 'Atsuko Ishizuka', 'Madhouse', 'Jukki Hanada', '2014-04-09', '2014-06-25', 13, 'No Game No Life');
+INSERT INTO ANIME(AnimeName,Director,Studio,Writer,StartDate,EndDate,Episodes,RelatedManga) VALUES('One Punch Man', 'Shingo Natsume', 'Madhouse', 'Tomohiro Suzuki', '2015-10-05', '2015-12-21', 12, 'One Punch-Man');
+INSERT INTO ANIME(AnimeName,Director,Studio,Writer,StartDate,EndDate,Episodes,RelatedManga) VALUES('Jormungand', 'Keitaro Motonaga', 'White Fox', 'Yosuke Kuroda', '2012-04-10', '2012-06-26', 12, 'Jormungand');
